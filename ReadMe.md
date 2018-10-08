@@ -2,9 +2,10 @@
 
 ## Egoostrian riding equipment for the discerning rabbit.
 
-[ ] Add a rabbit customer
-[ ] Add a goose to a customer
-[ ] Create a saddle for a particular 
+[x] Add a rabbit customer
+[x] Add a goose to a customer
+[x0] Create a saddle for a rabbit to use on a Goose
+[ ] Saddle that Goose 
 [ ] Armory that sells
 	[ ] Jousting Carrots
 	[ ] Throwing Lettuce
